@@ -146,6 +146,8 @@
     <ClCompile Include="01window.cpp" />
     <ClCompile Include="02test.cpp" />
     <ClCompile Include="02trianggle.cpp" />
+    <ClCompile Include="03shader.cpp" />
+    <ClCompile Include="03shaderclass.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
